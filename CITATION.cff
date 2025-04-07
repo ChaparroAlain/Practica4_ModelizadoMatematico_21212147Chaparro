@@ -15,18 +15,18 @@ authors:
 identifiers:
   - type: url
     value: >-
-https://github.com/ChaparroAlain/GemelosDigitales_Practica3_RegresionNoLineal_Chaparro21212147
-    description: Práctica3_RegresiónNoLineal
+https://github.com/ChaparroAlain/Practica4_ModelizadoMatematico_21212147Chaparro.git
+description: Práctica4_ModelizadoMatemati
 abstract: |2-
    Tecnologico Nacional de México 
    Instituto Tecnologico de Tijuana
    Ingeniería Biomédica 
    Gemelos Digitales
-   Práctica3-RegresiónNoLineal
+   Práctica4-ModelizadoMatemati
 keywords:
-  - Nonlinear Regression
-  - Logistic
-  - Allometric
-  - Gompertz
-  - Growth Law
+  - Modelizado
+  - Equilibrio
+  - Estabilidad local
+  - Matriz jacobiana
+  - Regresion no lineal
 license: BSD-2-Clause
