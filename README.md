@@ -8,7 +8,7 @@ Chaparro Zamora Alain Yahir
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l21212147@tectijuana.edu.mx
 
 ## Resumen de la práctica
-En esta práctica se usa un algoritmo de regresión no lineal para ajustar datos experimentales a modelos de crecimiento sigmoidal y estimar la tasa de crecimiento . Se a analizan cinco modelos matemáticos, crecimiento logistico, crecimiento alometrico fractal y esferico, y crecimiento de gompertz y gompertz simplificado, que representan diferentes formas de crecimiento celular. Para esto, se utiliza MATLAB, aprovechando las funciones nlinfit en MATLAB. Por ultimo se comparan y analizan los resultados obtenidos para evaluar qué tan bien se ajustan los modelos a los datos experimentales.
+En esta práctica se realizó el análisis matemático de un sistema biológico basado en el modelo de Lotka-Volterra con interacción entre dos especies. Se procesaron datos experimentales a partir de un archivo .csv, y se aplicó un algoritmo de regresión no lineal para ajustar los parámetros del modelo. Posteriormente, se determinaron los puntos de equilibrio y se calculó la matriz Jacobiana del sistema para analizar su estabilidad local. Se concluyó que solo uno de los puntos de equilibrio es estable, mientras que los demás son inestables o puntos silla. Finalmente, se graficaron los resultados del ajuste y las trayectorias simuladas para validar el modelo matemático.
 
 ## Objetivos específicos
 1.-Descargar y analizar los datos experimentales de crecimiento celular en dos muestras tomadas tomadas en cierto periodo de tiempo.
